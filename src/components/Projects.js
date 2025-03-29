@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { FaTrophy, FaShoppingCart, FaUsers, FaDatabase, FaFootballBall, FaLightbulb, FaPlayCircle } from "react-icons/fa"; // Importing some icons
+import { FaTrophy, FaShoppingCart, FaUsers , FaFootballBall, FaLightbulb, FaPlayCircle } from "react-icons/fa"; // Importing some icons
 
 const projects = [
   {
